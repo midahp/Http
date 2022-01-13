@@ -37,7 +37,7 @@ dependencies:
       psr/http-message: ^1
       psr/http-factory: ^1
       psr/http-client: ^1
-  optional:
+  dev:
     composer:
       horde/test: ^3
     ext:
